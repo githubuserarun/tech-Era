@@ -1,0 +1,10 @@
+li {
+  display: flex;
+  justify-content: flex-start;
+  gap: 10px;
+  width: 200px;
+}
+.link {
+  text-decoration: none;
+  color: #475569;
+}

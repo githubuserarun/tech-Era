@@ -1,0 +1,14 @@
+.CourseDetailsCardlist {
+  width: 80vw;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.head {
+  font-size: 30px;
+  font-weight: bold;
+}
+.para {
+  font-size: 18px;
+}
+.textContent {
+  padding: 10px;
+}

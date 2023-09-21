@@ -1,0 +1,31 @@
+.CourseListContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  list-style: none;
+  gap: 20px;
+  padding-left: 0px;
+}
+.courseContainer {
+  padding: 10px 50px;
+}
+.loader {
+  width: 100vw;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.FailureContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.FailureImg {
+  width: 450px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
